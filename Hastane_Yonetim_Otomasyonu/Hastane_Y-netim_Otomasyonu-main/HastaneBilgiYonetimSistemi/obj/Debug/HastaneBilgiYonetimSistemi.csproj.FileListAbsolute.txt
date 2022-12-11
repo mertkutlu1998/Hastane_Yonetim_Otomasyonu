@@ -1,0 +1,89 @@
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe.config
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Giris_Ekrani.resources
+C:\Users\ilker\Desktop\Git\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Doktor1.resources
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe.config
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Doktor1.resources
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Giris_Ekrani.resources
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Sekreter_paneli.resources
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Muhasebe.resources
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe.config
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Doktor1.resources
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Giris_Ekrani.resources
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Muhasebe.resources
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Sekreter_paneli.resources
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.yonetici_paneli.resources
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Yonetici_paneli.resources
+C:\Users\ilker\Desktop\Git Yedek\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Hasta.resources
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Doktor1.resources
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Giris_Ekrani.resources
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Hasta.resources
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Muhasebe.resources
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Sekreter_paneli.resources
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Yonetici_paneli.resources
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe.config
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\cihathan.toparlak\Desktop\1\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Doktor1.resources
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Giris_Ekrani.resources
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Muhasebe.resources
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Sekreter_paneli.resources
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Yonetici_paneli.resources
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe.config
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git Yedek\Yeni klasör\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Doktor1.resources
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Giris_Ekrani.resources
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Muhasebe.resources
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Properties.Resources.resources
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Sekreter_paneli.resources
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.Yonetici_paneli.resources
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\obj\Debug\HastaneBilgiYonetimSistemi.pdb
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe.config
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.exe
+C:\Users\ilker\Desktop\Git Yedek\HastaneBilgiYonetimSistemi\HastaneBilgiYonetimSistemi\bin\Debug\HastaneBilgiYonetimSistemi.pdb
